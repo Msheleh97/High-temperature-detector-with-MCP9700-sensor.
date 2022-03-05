@@ -27,7 +27,6 @@ The materials you will need is:
 - MCP9700 sensor: temperature sensor.
 - Breadboard: the board that connects the sensor with the wires.
 
-
 [webbsite]: https://www.electrokit.com/produkt/lnu-1dt305-tillampad-iot-lopy4-and-sensors-bundle/
 
 # IDE setup
